@@ -1,0 +1,8 @@
+PyDispatcher
+eyeD3
+pygame
+gTTS
+SpeechRecognition
+Metaphone
+requests
+psutil

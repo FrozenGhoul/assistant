@@ -1,0 +1,35 @@
+//config.json
+
+{"language": "pt",
+ "assistant_name": "roberta",
+ "assistant_engine": "hibernating", // hibernating || always_active,
+ "version": "0.0.1",
+ "check_for_updates": false,
+ "user_name": "ronaldo",
+ "user_birthdate": "", //dd/mm/yyyy},
+ "initial_stt_engine": "google",
+ "master_stt_engine": "google",
+ "google_speech_api": "",
+ "google_cloud_speech_api": "",
+ "bing_speech_api": "",
+ "wit.ai_speech_api": "",
+ "houndify_client_id": "",
+ "houndify_client_key": "",
+ "ibm_username": "",
+ "ibm_password": "",
+ "tts_engine": "google",
+ "tts_player": "mixer",
+ "modules_folder": "",
+ 
+ //TODO: add lang support for THESE
+ "default_greeting": "oi",
+ "wake_up_cmd": "acorda",
+ "sleep_cmd": "dorme",
+ "listened_success_text": "I'm working on it.",
+ "listened_error_text": "Can you repeat please?",
+ 
+ //TODO: change for a tempfile and beepfunction
+"speech_filename": "speak.mp3",
+"beep_start": "beep_start.mp3",
+"beep_end": "beep_end.mp3"
+}

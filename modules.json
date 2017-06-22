@@ -1,0 +1,6 @@
+{
+ "SystemModule@MeaningOfLife": ["meaning", "life"],
+ "SystemModule@TimeRightNow": ["time","right","now"],
+ "SystemModule@DateToday": ["date","today"],
+ "SystemModule@TellSystemStatus": ["system","status"]
+}
