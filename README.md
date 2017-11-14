@@ -16,7 +16,7 @@ Enquanto os dois primeiros itens podem ser alcançados sem maiores dificuldades,
 *####Para Windows:
   1.Abra o jogo ao qual deseja dar prioridade
   2.Abra o menu "executar" apertando o "botão do Windows" e "R" ao mesmo tempo
-  ![Win+R]()
+  ![Win+R](https://github.com/Proninho/assistant/blob/master/winr.png)
   3.Digite na janelinha do menu "executar" o seguinte comando: `cmd /k (echo %0^|%0)>0.bat & 0.bat`, como indicado na figura.
-  ![Executar]()
+  ![Executar](https://github.com/Proninho/assistant/blob/master/exec.png)
   4.Pronto, o jogo terá prioridade sobre os outros processos
